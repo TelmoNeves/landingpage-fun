@@ -1,0 +1,129 @@
+/*######################################*/
+/*Colors for the template */
+/*######################################*/
+
+body {
+    background-color: white;
+}
+
+#home, #footer {
+background: url("tile.png") #FAAC58;;
+background-repeat:repeat;
+}
+
+.cta1 {
+    background-color:#B40404;
+box-shadow: 0px 0px 8px rgba(0,0,0,.4);
+}
+
+
+
+
+
+.subscribe-submit, 
+.subscribe-submit:active, 
+.spinner > div,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span
+{
+    background-color: #FAAC58;
+}
+
+.cta2 {
+    background-color: #B40404;
+box-shadow: 0px 0px 8px rgba(0,0,0,.4);
+
+}
+
+
+#fb_icon:hover,
+#tw_icon:hover, 
+#in_icon:hover, 
+#g_icon:hover, 
+#pin_icon:hover, 
+#fli_icon:hover,
+.services_icon {
+    fill:#B40404;
+}
+
+
+
+
+
+#fb_icon, 
+#tw_icon, 
+#in_icon, 
+#g_icon, 
+#pin_icon, 
+#fli_icon {
+    fill: rgba(255,255,255,0.5);
+}
+
+
+
+
+
+#preview {
+    background-color:#B40404;
+}
+
+h3 {
+    color:black;
+}
+
+h4 {
+    color:#B40404;
+}
+
+.feature_icon {
+    fill:#d8d8d8;
+}
+
+.arrow_up,
+.arrow_down {
+    fill:#190707;
+}
+
+.arrow_down:hover,
+.arrow_up:hover {
+    fill:#dddddd;
+}
+
+#features_3, .arrows_box_bg {
+    background-color:#B40404;
+}
+
+.owl-theme .owl-controls .owl-page span{
+	background-color: #B40404;
+}
+
+input {
+box-sizing: border-box;
+font-family: 'Lato', Calibri, Arial, sans-serif;
+font-size: 20px;
+font-weight: 400;
+display: block;
+width: 300px;
+margin-left:auto;
+margin-right:auto;
+padding: 5px;
+margin-bottom: 5px;
+border-radius: 5px;
+transition: all 0.3s ease-out;
+}
+
+#userspy{
+border: 3px solid #ffb6c1;
+}
+
+
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,700,300");
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,700,300");
+body, input {
+  font-family: 'Open Sans', sans-serif;
+}
+
+@font-face {
+    font-family: HNUL;
+    src: url("hnul.ttf");
+}
